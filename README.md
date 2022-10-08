@@ -5,12 +5,12 @@ Recommend to create a virtual environment.
 
 Install dependencies
 ```
-cd code
 pip install -r requirements.txt
 ```
 
 you can got to the folder code and execute the script with:
 ```
+cd code
 python3 -m shortest-path
 ```
 
