@@ -1,0 +1,5 @@
+numpy == 1.23.3
+pyproj == 3.4.0
+Shapely == 1.8.4
+ipykernel == 6.16.0
+ipython == 8.5.0

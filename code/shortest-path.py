@@ -6,7 +6,7 @@ from sys import maxsize
 
 import numpy as np
 from pyproj import Proj
-from shapely.geometry import LineString, MultiLineString, Point
+from shapely.geometry import LineString, Point
 
 points = [
     {"latitude": 37.1726668, "longitude": -3.5996359},
