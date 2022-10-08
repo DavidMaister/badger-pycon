@@ -5,6 +5,7 @@ Recommend to create a virtual environment.
 
 Install dependencies
 ```
+cd code
 pip install -r requirements.txt
 ```
 
